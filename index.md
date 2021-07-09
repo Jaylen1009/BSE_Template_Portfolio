@@ -1,5 +1,5 @@
-﻿ The LED Cyclone game
-I'm working on making a LED Cyclone game.
+﻿# The LED Cyclone game
+I'm working on making a LED Cyclone game. I hope to create a game with different colors involve that becomes challenging.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
